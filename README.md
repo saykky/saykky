@@ -2,8 +2,8 @@
 I am a Full-Stack Developer. I develop websites using modern technology stacks and Telegram bots.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayk-77&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayk-77&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saykky&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saykky&layout=compact&theme=radical" height="180px"/>
 </div>
 
 ### Tech Stack:
