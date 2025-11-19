@@ -40,4 +40,4 @@ I am a Full-Stack Developer. I develop websites using modern technology stacks a
 
 ### **Contact Me**:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sayk02)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saykky)
